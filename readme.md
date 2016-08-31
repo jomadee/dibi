@@ -131,8 +131,3 @@ echo dibi::$elapsedTime;
 echo dibi::$numOfQueries;
 echo dibi::$totalTime;
 ```
-
-Print LastQuery
-```php
-echo dibi::$sql;
-```
